@@ -1,0 +1,124 @@
+#logo2 {
+  width: 110px;
+  height: 30px;
+}
+
+#team2 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* body {
+  background-image: url('https://images.unsplash.com/photo-1566305977571-5666677c6e98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=690&q=80');
+  opacity: 0.9;
+} */
+
+#parent1 {
+  width: 100vw;
+}
+
+.parent2 {
+  border: ;
+  display: flex;
+  flex-direction: row;
+  justify-content: ;
+  text-align: center;
+
+  width: 100vw;
+  height: 600px;
+  margin: 0.5em;
+}
+
+.parent3 {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 325px;
+  margin: 0.5em;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.child1 {
+  width: 300px;
+  height: 293px;
+  background-color: #dfd3c3;
+  opacity: 0.9;
+}
+
+.child2 {
+  width: 290px;
+  height: 293px;
+  background-color: #c8dbbe;
+  opacity: 0.9;
+}
+
+.child3 {
+  width: 290px;
+  height: 293px;
+  background-color: #d0b8a8;
+  opacity: 0.9;
+}
+
+.child4 {
+  width: 290px;
+  height: 293px;
+  background-color: #f9f9f9;
+  opacity: 0.9;
+}
+
+.childMiddle1 {
+  border: ;
+  background-color: #000;
+  color: #fff;
+  opacity: 0.5;
+
+  width: 400px;
+  height: 585px;
+  margin: 4px;
+}
+
+h1 {
+  color: #fecd70;
+}
+
+.childMiddle2 {
+  border: ;
+  width: 600;
+  height: 585px;
+  margin: 4px;
+}
+
+.childMiddle3 {
+  border: ;
+  width: 600px;
+  height: 585px;
+  margin: 4px;
+}
+
+.childMiddle4 {
+  border: ;
+  width: 560px;
+  height: 585px;
+  margin: 4px;
+
+  background-color: #000;
+  color: #fff;
+  opacity: 0.5;
+}
+
+#parentpic1 {
+  height: 100%;
+  width: 100%;
+}
+
+#parentPic {
+  height: 100%;
+  width: 100%;
+}
+
+/* #app {
+  border: solid;
+  margin-top: -20vh;
+} */

@@ -1,0 +1,67 @@
+#head {
+  background-image: url(https://www.bing.com/th?id=OSK.HEROMrYsGLW5FlVYszbGKihWTavSrU_htPYyR9LtwvUHLzU&w=472&h=280&c=1&rs=2&o=6&dpr=2&pid=SANGAM);
+  background-size: cover;
+  background-position-y: 20%;
+}
+
+.card__container {
+  display: flex;
+  justify-content: center;
+  background-image: url('https://swall.teahub.io/photos/small/301-3012343_blur-background-images-for-android.jpg');
+}
+.content {
+  padding: 10px;
+}
+.h6 {
+  color: black;
+  font-size: 15px;
+  font-family: serif;
+}
+
+#bottomSelfCare {
+  background-color: #67987b;
+}
+
+#sanda {
+  background-color: #5d97a2;
+}
+
+#dep {
+  background-color: #e7b811;
+}
+
+.maincontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 3em;
+  flex-wrap: wrap;
+}
+
+.mentorcontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+}
+
+.hover-grow {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+.connect {
+  padding: 2em;
+  border-color: #eee;
+  margin: 1em;
+}
+
+#state {
+  width: 200px;
+}
+
+.formArea {
+}
+
+#mental {
+  padding: 3em;
+}

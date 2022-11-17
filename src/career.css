@@ -1,0 +1,50 @@
+.maincontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 5em;
+  flex-wrap: wrap;
+}
+
+.mentorcontainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 7em;
+}
+.hover-grow {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+.card__container {
+  background-image: url('https://i.pinimg.com/736x/ef/15/50/ef1550a706f86e51ffe53c855482f19a--ombre-teal.jpg');
+}
+
+.uppercase {
+  justify-content: center;
+  color: #f59e75;
+  background-color: #a7ffeb;
+}
+
+.content {
+  height: 130px;
+  padding: 1.3em;
+}
+
+.card {
+  margin-bottom: 3em !important;
+}
+
+.card__action-bar {
+  padding: 2em !important;
+}
+
+.bannerContent {
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.hero-body {
+  padding: 3em !important;
+  padding-bottom: 7em !important;
+}
